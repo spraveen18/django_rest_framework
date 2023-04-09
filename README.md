@@ -10,3 +10,10 @@
     
 - Model Serializer
    - Model Serialzer validation 
+   
+- function based api_view
+  - crud function based api_view
+  - cfbav_browsable_api --> crud function based api view using browsable api
+
+- drf12 --> **class based APIView**
+   

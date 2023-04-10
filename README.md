@@ -16,4 +16,7 @@
   - cfbav_browsable_api --> crud function based api view using browsable api
 
 - drf12 --> **class based APIView**
+
+- def13, drf14
+   - Generic API VIEW and Mixins
    

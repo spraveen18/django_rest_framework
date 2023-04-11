@@ -17,6 +17,9 @@
 
 - drf12 --> **class based APIView**
 
-- def13, drf14
+- drf13, drf14
    - Generic API VIEW and Mixins
+   
+- def15, drf16
+   - Concrete View Class
    

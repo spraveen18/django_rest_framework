@@ -20,6 +20,8 @@
 - drf13, drf14
    - Generic API VIEW and Mixins
    
-- def15, drf16
+- drf15, drf16
    - Concrete View Class
    
+- drf17
+  - ViewSet

@@ -25,3 +25,6 @@
    
 - drf17
   - ViewSet
+  
+- drf18
+  - Model View Set 

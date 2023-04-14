@@ -28,3 +28,6 @@
   
 - drf18
   - Model View Set 
+ 
+- drf19
+  - Read Only Model View Set

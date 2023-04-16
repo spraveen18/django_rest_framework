@@ -31,3 +31,6 @@
  
 - drf19
   - Read Only Model View Set
+  
+- drf20
+   - Basic Authentication and Permission Class 
